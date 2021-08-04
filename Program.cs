@@ -12,7 +12,8 @@ namespace ConsoleApp2
             // UNDONE: доработать следующуюся функциональность 
             Console.Write("Hello World!");
             // TODO: добавить новую функцию
-            // HACK: this code is temp. it should be fixed or deleted 
+            // HACK: this code is temp. it should be fixed or deleted
+            // Hello gys this is my new code
             Console.ReadKey();
         }
     }
